@@ -1,5 +1,4 @@
 {
-  "title": "南下风来导航站",
   "categories": [
     {
       "id": "category-1752717243982",
@@ -343,6 +342,336 @@
           "url": "https://www.w3schools.com",
           "description": "Web技术教程",
           "icon": "https://icon.maodeyu.fun/favicon/www.w3schools.com"
+极客技术社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.nodeseek.com"
+        },
+        {
+          "id": "v2ex",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "description": "创意工作者社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.v2ex.com"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "https://icon.maodeyu.fun/favicon/www.52pojie.cn"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 9,
+      "sites": [
+        {
+          "id": "mdn",
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web开发权威文档",
+          "icon": "https://icon.maodeyu.fun/favicon/developer.mozilla.org"
+        },
+        {
+          "id": "w3school",
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com",
+          "description": "Web技术教程",
+          "icon": "https://icon.maodeyu.fun/favicon/www.w3schools.com"
+        },
+        {
+          "id": "runoob",
+         极客技术社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.nodeseek.com"
+        },
+        {
+          "id": "v2ex",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "description": "创意工作者社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.v2ex.com"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "https://icon.maodeyu.fun/favicon/www.52pojie.cn"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 9,
+      "sites": [
+        {
+          "id": "mdn",
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web开发权威文档",
+          "icon": "https://icon.maodeyu.fun/favicon/developer.mozilla.org"
+        },
+        {
+          "id": "w3school",
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com",
+          "description": "Web技术教程",
+          "icon": "https://icon.maodeyu.fun/favicon/www.w3schools.com"
+        },
+        {
+          "id": "runoob",
+          "name": "菜鸟教程",
+          "url": "https://www.runoob.com",
+          "description": "编程技术教程",
+          "icon": "https://icon.maodeyu.fun/favicon/www.runoob.com"
+        },
+        {
+          "id": "coursera",
+          "name": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线课程平台",
+          "icon": "https://icon.maodeyu.fun/favicon/www.coursera.org"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 10,
+      "sites": [
+        {
+          "id": "json-formatter",
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org",
+          "description": "JSON格式化工具",
+          "icon": "https://icon.maodeyu.fun/favicon/jsonformatter.org"
+        },
+        {
+          "id": "regex101",
+          "name": "Regex101",
+          "url": "https://regex101.com",
+          "description": "正则表达式测试",
+          "icon": "https://icon.maodeyu.fun/favicon/regex101.com"
+        },
+        {
+          "id": "caniuse",
+          "name": "Can I Use",
+          "url": "https://cani极客技术社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.nodeseek.com"
+        },
+        {
+          "id": "v2ex",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "description": "创意工作者社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.v2ex.com"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "https://icon.maodeyu.fun/favicon/www.52pojie.cn"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 9,
+      "sites": [
+        {
+          "id": "mdn",
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web开发权威文档",
+          "icon": "https://icon.maodeyu.fun/favicon/developer.mozilla.org"
+        },
+        {
+          "id": "w3school",
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com",
+          "description": "Web技术教程",
+          "icon": "https://icon.maodeyu.fun/favicon/www.w3schools.com"
+        },
+        {
+          "id": "runoob",
+          "name": "菜鸟教程",
+          "url": "https://www.runoob.com",
+          "description": "编程技术教程",
+          "icon": "https://icon.maodeyu.fun/favicon/www.runoob.com"
+        },
+        {
+          "id": "coursera",
+          "name": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线课程平台",
+          "icon": "https://icon.maodeyu.fun/favicon/www.coursera.org"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 10,
+      "sites": [
+        {
+          "id": "json-formatter",
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org",
+          "description": "JSON格式化工具",
+          "icon": "https://icon.maodeyu.fun/favicon/jsonformatter.org"
+        },
+        {
+          "id": "regex101",
+          "name": "Regex101",
+          "url": "https://regex101.com",
+          "description": "正则表达式测试",
+          "icon": "https://icon.maodeyu.fun/favicon/regex101.com"
+        },
+        {
+          "id": "caniuse",
+          "name": "Can I Use",
+          "url": "https://caniuse.com",
+          "description": "浏览器兼容性查询",
+          "icon": "https://icon.maodeyu.fun/favicon/caniuse.com"
+        },
+        {
+          "id": "tinypng",
+          "name": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "图片压缩工具",
+          "icon": "https://icon.maodeyu.fun/favicon/tinypng.com"
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "云服务",
+      "icon": "☁️",
+      "order": 11,
+      "sites": [
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "https://icon.maodeyu.fun/favicon/www.cloudflare.com"
+        },
+        {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "https://icon.maodeyu.fun/favicon/vercel.com"
+        },
+        {
+          "id": "aws",
+          "name": "AWS",
+          "url": "https://aws.amazon.com",
+          "description": "亚马逊云服务",
+          "icon": "https://icon.maodeyu.fun/favicon/aws.amazon.com"
+        },
+        {
+          "id": "aliyun",
+          "name": "阿里云",
+          "url": "https://www.aliyun.com",
+          "description": "阿里巴巴云计算",
+          "icon": "https://icon.maodeyu.fun/favicon/www.aliyun.com"
+        },
+        {
+          "id": "tencent-cloud",
+          "name": "腾讯云",
+          "url": "https://cloud.tencent.com",
+          "description": "腾讯云计算服务",
+          "icon": "https://icon.maodeyu.fun/favicon/cloud.tencent.com"
+        },
+        {
+          "id": "huawei-cloud",
+          "name": "华为云",
+          "url": "https://www.huaweicloud.com",
+          "description": "华为云计算服务",
+          "icon": "https://icon.maodeyu.fun/favicon/www.huaweicloud.com"
+        },
+        {
+          "id": "site-1752644060499",
+          "name": "怕死云",
+          "url": "https://www.pasyun.com/",
+          "description": "ipv6机器",
+          "icon": "https://icon.maodeyu.fun/favicon/www.pasyun.com"
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 12,
+      "sites": [
+        {
+          "id": "notion",
+          "name": "Notion",
+          "url": "https://www.notion.so",
+          "description": "全能工作空间",
+          "icon": "https://icon.maodeyu.fun/favicon/www.notion.so"
+        },
+        {
+          "id": "slack",
+          "name": "Slack",
+          "url": "https://slack.com",
+          "description": "团队协作工具",
+          "icon": "https://icon.maodeyu.fun/favicon/slack.com"
+        },
+        {
+          "id": "trello",
+          "name": "Trello",
+          "url": "https://trello.com",
+          "description": "项目管理工具",
+          "极客技术社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.nodeseek.com"
+        },
+        {
+          "id": "v2ex",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "description": "创意工作者社区",
+          "icon": "https://icon.maodeyu.fun/favicon/www.v2ex.com"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "https://icon.maodeyu.fun/favicon/www.52pojie.cn"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 9,
+      "sites": [
+        {
+          "id": "mdn",
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web开发权威文档",
+          "icon": "https://icon.maodeyu.fun/favicon/developer.mozilla.org"
+        },
+        {
+          "id": "w3school",
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com",
+          "description": "Web技术教程",
+          "icon": "https://icon.maodeyu.fun/favicon/www.w3schools.com"
         },
         {
           "id": "runoob",
@@ -489,5 +818,6 @@
         }
       ]
     }
-  ]
-}
+  ],
+  "title": "南下风来导航站"
+};
