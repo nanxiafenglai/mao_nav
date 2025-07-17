@@ -1,5 +1,5 @@
 # 🐱 猫猫导航 (Mao Nav)
- 
+
 > 一个简洁美观的个人导航网站，支持分类管理和自定义收藏夹
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
