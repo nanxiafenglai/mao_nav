@@ -1,4 +1,4 @@
-{
+export const mockData = {
   "categories": [
     {
       "id": "category-1752717243982",
