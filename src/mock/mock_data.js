@@ -472,6 +472,21 @@ export const mockData = {
           "icon": "https://icon.maodeyu.fun/favicon/www.feishu.cn"
         }
       ]
+    },
+    {
+      "id": "category-1752717243982",
+      "icon": "💼",
+      "name": "个人网站",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1752717294823",
+          "name": "南下小站",
+          "url": "https://562455.xyz",
+          "description": "南下风来的博客",
+          "icon": "https://icon.maodeyu.fun/favicon/562455.xyz"
+        }
+      ]
     }
   ],
   "title": "南下风来导航站"
